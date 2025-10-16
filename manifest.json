@@ -2,7 +2,7 @@
   "name": "AquaCare: Water Tracker",
   "short_name": "AquaCare",
   "description": "A simple app to track your monthly water consumption, get rewards for saving, and receive tips to conserve water with AquaCare.",
-  "start_url": "https://ai.studio/apps/drive/19VOpFHop_8ZnKY1TUsDLtg0pS4JqSL-w",
+  "start_url":  "/",
   "display": "standalone",
   "background_color": "#020617",
   "theme_color": "#0891b2",
